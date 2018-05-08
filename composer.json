@@ -1,0 +1,16 @@
+{
+    "name": "pressbooks/lti",
+    "description": "IMS LTI Integration for Wordpress.",
+    "homepage": "https://github.com/lumenlearning/lti/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lumen Learning",
+            "homepage": "http://lumenlearning.com"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "^1.2"
+    }
+}
